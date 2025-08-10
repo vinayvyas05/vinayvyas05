@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Vyas</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 
 🎯 I recently built a **Battleship Game with AI**  
 🌱 I’m learning Node.js, MongoDB, Flutter  
