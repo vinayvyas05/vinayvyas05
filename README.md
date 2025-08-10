@@ -6,7 +6,7 @@
 🎯 I recently built a **Battleship Game with AI**  
 🌱 I’m learning Node.js, MongoDB, Flutter  
 💬 Ask me about HTML, CSS, JS, Node.js  
-📫 How to reach me: vinayvyas05@gmail.com  
+📫 How to reach me: vyasvinay95@gmail.com  
 
 ---
 
