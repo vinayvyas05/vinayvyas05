@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Vinay Vyas</h1>
+<h3 align="center">A passionate full-stack developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
+
+🎯 I recently built a **Battleship Game with AI**  
+🌱 I’m learning Node.js, MongoDB, Flutter  
+💬 Ask me about HTML, CSS, JS, Node.js  
+📫 How to reach me: vyasvinay95@gmail.com  
+
 ---
 
 ### 🛠️ Tech Stack
@@ -24,3 +34,9 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayvyas05&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvyas05&theme=radical"/>
+</p>
