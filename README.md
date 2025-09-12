@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 
 🎯 I recently built a **Battleship Game with AI**  
-🌱 I’m learning Node.js, MongoDB, Flutter  
+🌱 I’m learning Node.js, MongoDB 
 💬 Ask me about HTML, CSS, JS, Node.js  
 📫 How to reach me: vyasvinay95@gmail.com  
 
