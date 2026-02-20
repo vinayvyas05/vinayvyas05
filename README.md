@@ -91,7 +91,7 @@
 
 <div align="center">
 <a href="https://github.com/vinayvyas05/Battleship-Game-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=Battleship-Game-AI&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=vinayvyas05&repo=Battleship-Game-AI&theme=tokyonight" />
 </a>
 </div>
 
