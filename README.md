@@ -72,12 +72,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayvyas05&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=vinayvyas05&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayvyas05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayvyas05&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvyas05&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinayvyas05&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinayvyas05&theme=tokyonight" width="48%" />
 </p>
 
 ---
