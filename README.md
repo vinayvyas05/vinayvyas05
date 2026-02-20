@@ -1,18 +1,18 @@
 <h1 align="center">👨‍💻 Vinay Vyas | Full-Stack Developer ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vinay+Vyas;Full-Stack+Web+Developer;DSA+%7C+AI+Explorer;Building+Study+Sprint+🚀;Code.+Debug.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Vinay+Vyas;Full-Stack+Web+Developer;DSA+%7C+AI+Explorer;Building+Study+Sprint+🚀;Code.+Debug.+Repeat." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQKk0jG0U0/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
 
 - 👨‍💻 **Name:** Vinay Vyas  
 - 🎓 **Role:** Student | Web Developer  
@@ -72,12 +72,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinayvyas05&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvyas05&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayvyas05&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=vinayvyas05&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinayvyas05&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvyas05&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="60%" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 
 <div align="center">
   <a href="https://github.com/vinayvyas05/YOUR-BATTLESHIP-REPO">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vinayvyas05&repo=YOUR-BATTLESHIP-REPO&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=YOUR-BATTLESHIP-REPO&theme=radical&hide_border=true" />
   </a>
 </div>
 
