@@ -85,13 +85,15 @@
 
 ## 🚀 Featured Project
 
+## 🚀 Featured Project
+
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Battleship+AI+Preview" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 <div align="center">
-  <a href="https://github.com/vinayvyas05/YOUR-BATTLESHIP-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=https://github.com/vinayvyas05/Battleship-Game-AI&theme=radical&hide_border=true" />
+  <a href="https://github.com/vinayvyas05/Battleship-Game-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=Battleship-Game-AI&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
