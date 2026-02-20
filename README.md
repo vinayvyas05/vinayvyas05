@@ -46,7 +46,7 @@
 ### 🏆 Featured Project
 <div align="center">
   <a href="https://github.com/vinayvyas05/YOUR-BATTLESHIP-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=YOUR-BATTLESHIP-REPO&theme=radical" alt="Battleship Game"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vinayvyas05&repo=https://github.com/vinayvyas05/Battleship-Game-AI&theme=radical" alt="Battleship Game"/>
   </a>
 </div>
 
@@ -56,9 +56,9 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayvyas05&show_icons=true&theme=radical&hide_border=true" height="165" alt="Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinayvyas05&show_icons=true&theme=radical&hide_border=true" height="165" alt="Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvyas05&theme=radical&hide_border=true" height="165" alt="Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvyas05&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinayvyas05&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
 </p>
