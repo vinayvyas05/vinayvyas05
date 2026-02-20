@@ -90,9 +90,9 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/vinayvyas05/Battleship-Game-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=Battleship-Game-AI&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
+<a href="https://github.com/vinayvyas05/Battleship-Game-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=Battleship-Game-AI&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
 </div>
 
 ---
