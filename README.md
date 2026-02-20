@@ -1,41 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Vinay+Vyas;A+Passionate+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Vinay%20Vyas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=c0caf5&desc=Full-Stack%20Developer&descAlignY=55&descSize=25" alt="Header Banner" />
 </div>
 
-<p align="center">
+<div align="center">
+  <p>Building scalable web apps, training AI opponents, and turning coffee into code.</p>
+  
   <a href="mailto:vyasvinay95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-c0caf5?style=for-the-badge&logo=gmail&logoColor=1a1b26" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b26" alt="LinkedIn" />
   </a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vinayvyas05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
 
 ---
 
-<div align="center">
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
-
-  <br/>
-  
-  <div align="left">
-    <h3>🚀 About Me</h3>
-    <ul>
-      <li>🎯 I recently built a <b>Battleship Game with AI</b></li>
-      <li>🌱 I’m currently deepening my knowledge in <b>Node.js & MongoDB</b></li>
-      <li>💬 Ask me about: <b>JavaScript, React, Node.js</b></li>
-      <li>📫 Reach out at: <a href="mailto:vyasvinay95@gmail.com">vyasvinay95@gmail.com</a></li>
-    </ul>
-  </div>
-</div>
-
-<br clear="both">
-<br>
-
-### 🛠️ Tech Stack
+### ⚡ Tech Arsenal
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,react,nodejs,express,mongodb,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,java,nodejs,express,mongodb,react&perline=6" alt="Core Skills" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode&perline=6" alt="Tools & Frontend" />
   </a>
 </div>
 
@@ -43,22 +38,31 @@
 
 ---
 
-### 🏆 Featured Project
+### 📈 Dynamic GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayvyas05&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayvyas05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvyas05&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+---
+
+### 🎯 Featured Engineering
 <div align="center">
   <a href="https://github.com/vinayvyas05/YOUR-BATTLESHIP-REPO">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vinayvyas05&repo=https://github.com/vinayvyas05/Battleship-Game-AI&theme=radical" alt="Battleship Game"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=YOUR-BATTLESHIP-REPO&theme=tokyonight&hide_border=true" alt="Battleship AI Game" />
   </a>
 </div>
 
 <br>
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinayvyas05&show_icons=true&theme=radical&hide_border=true" height="165" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvyas05&theme=radical&hide_border=true" height="165" alt="Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinayvyas05&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" alt="Footer Banner" />
+</div>
