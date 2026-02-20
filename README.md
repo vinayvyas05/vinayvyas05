@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Vinay Vyas | Full-Stack Developer ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Vinay+Vyas;Full-Stack+Web+Developer;DSA+%7C+AI+Explorer;Building+Study+Sprint+🚀;Code.+Debug.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Vinay+Vyas;Full-Stack+Web+Developer;DSA+%7C+AI+Explorer;Building+Study+Sprint;Code.+Debug.+Repeat." />
 </p>
 
 <p align="center">
