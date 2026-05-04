@@ -155,22 +155,19 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <!-- Teams & Channels: 3D animated network/teamwork GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWcxdXZnZ3N5ZHBwN3M0aDA5Z2J4M2d6ZzQyZHl3bGQxbGQ1bDFnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHFRbmaZtBRhXG/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
+      <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
       <br/><br/>
       <b>👥 Teams & Channels</b><br/>
       <sub>Create teams like Frontend / Backend.<br/>Each team gets up to 10 channels.<br/>#general is auto-created.</sub>
     </td>
     <td align="center" width="33%">
-      <!-- Real-time Chat: Animated typing bubble GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA3bXV2ZnVqdWx5aG15aGJ6Z2Z1cXV6NWtzZzF3bHlhNGY2cXh2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaw4U1zM280/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
+      <img src="https://media.giphy.com/media/3oKIPnAiaw4U1zM280/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
       <br/><br/>
       <b>⚡ Real-time Chat</b><br/>
       <sub>Live messaging inside channels<br/>powered by <b>Socket.io</b>.<br/>Instant. No refresh needed.</sub>
     </td>
     <td align="center" width="33%">
-      <!-- Task Management: Animated checklist/checkmark GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThya3g5cW0xaXY0dXZyZno3dG1kZDZnOHF1b2t2b2t3MGV6aHMxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lFjGkE1BqG9zC8/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
+      <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
       <br/><br/>
       <b>✅ Task Management</b><br/>
       <sub>Admins assign tasks to members.<br/>Every update auto-announced<br/>on team's #general channel.</sub>
