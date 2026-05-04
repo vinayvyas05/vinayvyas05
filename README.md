@@ -140,51 +140,76 @@
 
 ## 🚀 Featured Projects
 
-### 🔥 DevPulse — The Heartbeat of Code
+### 🔥 DevPulse — Team Collaboration for Hackathos & Startups
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:12px;"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" style="border-radius:14px;"/>
 
 <br/><br/>
 
+> 💬 A lightweight **team workspace** built for small dev teams — create teams, chat in channels, assign tasks, all in one place.
+
+<br/>
+
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" style="border-radius:10px; max-width:320px;"/>
-<br/>
-<sub><b>⚡ Real-time Dev Feed</b></sub>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" style="border-radius:10px;"/>
+<br/><br/>
+<b>👥 Teams & Channels</b><br/>
+<sub>Create teams like Frontend / Backend.<br/>Each team gets up to 10 channels.<br/>#general is auto-created.</sub>
 </td>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" style="border-radius:10px; max-width:320px;"/>
-<br/>
-<sub><b>🧠 Powered by AI + APIs</b></sub>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" style="border-radius:10px;"/>
+<br/><br/>
+<b>⚡ Real-time Chat</b><br/>
+<sub>Live messaging inside channels<br/>powered by <b>Socket.io</b>.<br/>Instant. No refresh needed.</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="180" style="border-radius:10px;"/>
+<br/><br/>
+<b>✅ Task Management</b><br/>
+<sub>Admins assign tasks to members.<br/>Every update auto-announced<br/>on team's #general channel.</sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
-> 🌐 **Full-Stack Web App** — The heartbeat of the developer community
+```
+👤 Register  →  🏗️ Create Team  →  📢 Add Channels  →  💬 Chat  →  ✅ Assign Tasks
+```
 
 <br/>
 
-| ⚙️ Stack | 🔧 Details |
+| ⚙️ Feature | 🔧 Details |
 |:---|:---|
-| **Frontend** | React.js + Tailwind CSS |
-| **Backend** | Node.js + Express |
-| **Database** | MongoDB |
-| **Deployed** | Vercel |
+| 🔐 Auth | User registration & login |
+| 👥 Teams | Create named teams (e.g. Backend Team, Frontend Team) |
+| 📢 Channels | Up to 10 channels per team · #general auto-created |
+| 💬 Real-time Chat | Socket.io powered live messaging |
+| 🛡️ Admin Controls | Add / remove members, manage team |
+| ✅ Task System | Assign tasks to members · updates posted to #general |
+| 🚀 Deploy | Vercel (Frontend + Backend) |
 
 <br/>
 
 <a href="https://devpulse-sigma-opal.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐 Live Demo-00F7FF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00F7FF?style=for-the-badge&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://github.com/vinayvyas05/Project-Connect">
-  <img src="https://img.shields.io/badge/GitHub Repo-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Repo-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
 </div>
 
