@@ -138,13 +138,70 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🔥 DevPulse — The Heartbeat of Code
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" style="border-radius:12px;"/>
-  <br/><br/>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=Battleship-Game-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF)](https://github.com/vinayvyas05/Battleship-Game-AI)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:12px;"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" style="border-radius:10px; max-width:320px;"/>
+<br/>
+<sub><b>⚡ Real-time Dev Feed</b></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" style="border-radius:10px; max-width:320px;"/>
+<br/>
+<sub><b>🧠 Powered by AI + APIs</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+> 🌐 **Full-Stack Web App** — The heartbeat of the developer community
+
+<br/>
+
+| ⚙️ Stack | 🔧 Details |
+|:---|:---|
+| **Frontend** | React.js + Tailwind CSS |
+| **Backend** | Node.js + Express |
+| **Database** | MongoDB |
+| **Deployed** | Vercel |
+
+<br/>
+
+<a href="https://devpulse-sigma-opal.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐 Live Demo-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://github.com/vinayvyas05/Project-Connect">
+  <img src="https://img.shields.io/badge/GitHub Repo-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+### 🎮 Battleship Game AI
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" width="260" style="border-radius:12px;"/>
+
+<br/><br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=Battleship-Game-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF)](https://github.com/vinayvyas05/Battleship-Game-AI)
+
 </div>
 
 ---
