@@ -155,7 +155,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="[https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJyamM4djJmeDloZmVpZjUwMjZnM3VsYmxuYmx3NGVvOXd4amRvMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/100PgquHm9j3sQ/giphy.gif)" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
+      <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
       <br/><br/>
       <b>👥 Teams & Channels</b><br/>
       <sub>Create teams like Frontend / Backend.<br/>Each team gets up to 10 channels.<br/>#general is auto-created.</sub>
