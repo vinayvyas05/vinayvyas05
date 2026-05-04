@@ -155,19 +155,19 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" style="border-radius:10px;"/>
+<img src="https://media.giphy.com/media/3oEdv9RSCM7JRILwHC/giphy.gif" width="180" style="border-radius:10px;"/>
 <br/><br/>
 <b>👥 Teams & Channels</b><br/>
 <sub>Create teams like Frontend / Backend.<br/>Each team gets up to 10 channels.<br/>#general is auto-created.</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" style="border-radius:10px;"/>
+<img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="180" style="border-radius:10px;"/>
 <br/><br/>
 <b>⚡ Real-time Chat</b><br/>
 <sub>Live messaging inside channels<br/>powered by <b>Socket.io</b>.<br/>Instant. No refresh needed.</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="180" style="border-radius:10px;"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhjaHE1enVxeml4aDlmMnI3ZHZwdHd3dzJ3NHJ6eTZ3ZzlxMzZ3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" width="180" style="border-radius:10px;"/>
 <br/><br/>
 <b>✅ Task Management</b><br/>
 <sub>Admins assign tasks to members.<br/>Every update auto-announced<br/>on team's #general channel.</sub>
