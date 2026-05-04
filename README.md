@@ -161,13 +161,13 @@
       <sub>Create teams like Frontend / Backend.<br/>Each team gets up to 10 channels.<br/>#general is auto-created.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaw4U1zM280/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
+      <img src="https://giphy.com/gifs/season-14-the-simpsons-14x5-3o6MbsWjZwURvye0ko/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
       <br/><br/>
       <b>⚡ Real-time Chat</b><br/>
       <sub>Live messaging inside channels<br/>powered by <b>Socket.io</b>.<br/>Instant. No refresh needed.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
+      <img src="https://giphy.com/gifs/goku-dragon-ball-super-broly-warmup-tcKnSDeltmpKxslv8r/giphy.gif" width="180" height="130" style="border-radius:10px; object-fit: cover;"/>
       <br/><br/>
       <b>✅ Task Management</b><br/>
       <sub>Admins assign tasks to members.<br/>Every update auto-announced<br/>on team's #general channel.</sub>
