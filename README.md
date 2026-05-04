@@ -191,7 +191,8 @@
 | 💬 Real-time Chat | Socket.io powered live messaging |
 | 🛡️ Admin Controls | Add / remove members, manage team |
 | ✅ Task System | Assign tasks to members · updates posted to #general |
-| 🚀 Deploy | Vercel (Frontend + Backend) |
+| 🚀 Frontend Deploy | Vercel |
+| 🖥️ Backend Deploy | Render |
 
 <br/>
 
@@ -210,6 +211,8 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 
 </div>
 
