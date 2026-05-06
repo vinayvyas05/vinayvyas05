@@ -223,14 +223,67 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" width="260" style="border-radius:12px;"/>
+# 🎮 Battleship Game AI
+
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/>
 
 <br/><br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayvyas05&repo=Battleship-Game-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF)](https://github.com/vinayvyas05/Battleship-Game-AI)
+<a href="https://github.com/vinayvyas05/Battleship-Game-AI">
+  <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vinayvyas05/Battleship-Game-AI/stargazers">
+  <img src="https://img.shields.io/github/stars/vinayvyas05/Battleship-Game-AI?style=for-the-badge&color=00F7FF"/>
+</a>
+
+<a href="https://github.com/vinayvyas05/Battleship-Game-AI/network/members">
+  <img src="https://img.shields.io/github/forks/vinayvyas05/Battleship-Game-AI?style=for-the-badge&color=FF00FF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Powered+Battleship+Game;Reinforcement+Learning+Opponent;Modern+Pygame+UI;Self-Learning+AI+System"/>
 
 </div>
 
+---
+
+## ⚡ Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 AI System
+- Reinforcement Learning AI
+- Self-play training
+- Adaptive strategies
+- Smart targeting system
+
+</td>
+
+<td width="50%">
+
+### 🎨 Gameplay
+- Modern Pygame UI
+- Smooth animations
+- Real-time battle system
+- Interactive controls
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🚀 Built With
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,pygame,git,github"/>
+
+</div>
 ---
 
 ## 📫 Connect With Me
