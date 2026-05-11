@@ -223,20 +223,29 @@
 
 <div align="center">
 
-<div align="center">
+<h3 align="center">🚀 Built With</h3>
 
-### 🚀 Built With
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="65"/><br/><b>Python</b>
+    </td>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="65"/><br/><b>PyTorch</b>
+    </td>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/><br/><b>Pygame</b>
+    </td>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="65"/><br/><b>Git</b>
+    </td>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="65"/><br/><b>GitHub</b>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF00FF" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Pygame-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Pygame" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF00FF" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
-</p>
-
+</div>
 </div>
 ---
 
