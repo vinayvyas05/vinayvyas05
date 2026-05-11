@@ -223,66 +223,19 @@
 
 <div align="center">
 
-# 🎮 Battleship Game AI
-
-<!-- <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/> -->
-<img src="https://media.giphy.com/media/j7hKCWwNAhGKNVrCJk/giphy.gif" width="700"/>
-
-<br/><br/>
-
-<a href="https://github.com/vinayvyas05/Battleship-Game-AI">
-  <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vinayvyas05/Battleship-Game-AI/stargazers">
-  <img src="https://img.shields.io/github/stars/vinayvyas05/Battleship-Game-AI?style=for-the-badge&color=00F7FF"/>
-</a>
-
-<a href="https://github.com/vinayvyas05/Battleship-Game-AI/network/members">
-  <img src="https://img.shields.io/github/forks/vinayvyas05/Battleship-Game-AI?style=for-the-badge&color=FF00FF"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Powered+Battleship+Game;Reinforcement+Learning+Opponent;Modern+Pygame+UI;Self-Learning+AI+System"/>
-
-</div>
-
----
-
-## ⚡ Features
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI System
-- Reinforcement Learning AI
-- Self-play training
-- Adaptive strategies
-- Smart targeting system
-
-</td>
-
-<td width="50%">
-
-### 🎨 Gameplay
-- Modern Pygame UI
-- Smooth animations
-- Real-time battle system
-- Interactive controls
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 ### 🚀 Built With
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,pygame,git,github"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF00FF" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pygame-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Pygame" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF00FF" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
+</p>
 
 </div>
 ---
