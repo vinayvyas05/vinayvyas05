@@ -226,7 +226,7 @@
 # 🎮 Battleship Game AI
 
 <!-- <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700"/> -->
-<img src="https://media.giphy.com/media/WorldofWarships-world-of-warships-worldofwarships-drop-bombs-j7hKCWwNAhGKNVrCJk" width="700"/>
+<img src="https://media.giphy.com/media/j7hKCWwNAhGKNVrCJk/giphy.gif" width="700"/>
 
 <br/><br/>
 
