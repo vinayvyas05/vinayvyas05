@@ -219,35 +219,6 @@
 
 ---
 
-### 🎮 Battleship Game AI
-
-<div align="center">
-
-<h3 align="center">🚀 Built With</h3>
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="20%" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="65"/><br/><b>Python</b>
-    </td>
-    <td align="center" width="20%" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="65"/><br/><b>PyTorch</b>
-    </td>
-    <td align="center" width="20%" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/><br/><b>Pygame</b>
-    </td>
-    <td align="center" width="20%" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="65"/><br/><b>Git</b>
-    </td>
-    <td align="center" width="20%" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="65"/><br/><b>GitHub</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-</div>
----
 
 ## 📫 Connect With Me
 
